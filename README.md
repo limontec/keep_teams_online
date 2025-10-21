@@ -1,5 +1,4 @@
-# keep_teams_online
-Keep Teams online
+#Keep Teams online
 
 # How to run
 1. Open PowerShell as Admin
